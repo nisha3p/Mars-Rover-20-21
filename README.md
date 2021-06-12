@@ -7,6 +7,8 @@ Object detection plays a very important role in autonomously driven robots. The 
 
 
 ![image](https://user-images.githubusercontent.com/60462821/121772004-6bd85180-cb90-11eb-88f3-d3e57aac7b83.png)
+
+
 Installation:
 In order to begin with the task, we first installed python3, OpenCV, Keras and Tensorflow.
 OpenCV:
@@ -64,6 +66,11 @@ We were getting the best accuracy using the VGG-16 model. The summary of the mod
 
 
 Here are the results of some test images:
+
+
+![image](https://user-images.githubusercontent.com/60462821/121772028-96c2a580-cb90-11eb-942a-32282050df3f.png)
+![image](https://user-images.githubusercontent.com/60462821/121772038-9de9b380-cb90-11eb-87ac-ffa46cc8e4c8.png)
+
 
 
 
