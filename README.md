@@ -25,6 +25,7 @@ Linear Regression is a supervised machine learning algorithm and the most popula
 Linear regression algorithms show a linear relationship between a dependent (y) and one or more independent (y) variables, hence called linear regression. Since it shows the linear relationship, which means it finds how the value of the dependent variable is changing according to the value of the independent variable. 
 
 Link: https://medium.com/@shuklapratik22/linear-regression-from-scratch-a3d21eff4e7c
+
 2) Logistic Regression
 
 Logistic regression is also a supervised machine learning technique. It is used for predicting the categorical dependent variable using a given set of independent variables.
